@@ -1,0 +1,6 @@
+kocha=input()
+mahalla=input()
+tuman=input()
+viloyat=input()
+print(f"{kocha.title()} ko'chasi, {mahalla.upper()} mahallasi, {tuman.lower()} tumani, {viloyat.capitalize()} viloyati")
+input()
